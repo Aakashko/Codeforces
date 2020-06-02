@@ -10,6 +10,8 @@
 #define 	mp 	make_pair
 #define 	mod 	1000000007
 #define 	pi 	3.141592653589793
+#define     MaxN    LLONG_MAX
+#define     MinN    LLONG_MIN
 
 using namespace std;
 
